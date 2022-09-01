@@ -4,4 +4,4 @@ NPM     : 2106650374
 
 Kelas   : B
 
-Hobi    : Nonton
+Hobi    : Baca
